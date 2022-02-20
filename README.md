@@ -2,6 +2,30 @@
 
 Tento repozitář slouží pro testování a jako veřejné zrcadlo pro vyukové materiály na SPŠE Havířov (Micha)
 
+## Seznam materiálů
+
+### Předměty
+
+* Informatika
+    * Ročník 2 
+* Operační systémy
+    * Ročník 3
+        * [NTFS](OPS3_ntfs.pdf)
+    * Ročník 4
+* Hardware
+    * Ročník 3
+    * Ročník 4
+
+
+### Ročníky
+
+* Ročník 1
+* Ročník 2
+* Ročník 3
+    * Operační systémy
+        * [NTFS](OPS3_ntfs.pdf)
+* Ročník 4
+
 ## Vylepšování
 
 Je docela možné, že přes veškeré úsilí a snahu materiály obsahují gramatické (🤦‍♂️), faktografické (🤷‍♂️) chyby
