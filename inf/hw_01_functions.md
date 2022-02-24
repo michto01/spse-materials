@@ -136,3 +136,9 @@ tyto čísla (0-15).
 - funkce vrátí hodnotu:
   - `1` protínají se
   - `0` neprotínají se
+
+#### [5.1] 📙 Napište funkci, která bude vypisovat čísla od 1 do n s tím, že když je číslo dělitelné 3 jak se místo čísla napíše `SP` a když je dělitelné `5` tak `SE`
+
+- Pokud je číslo dělitelné jak `3` tak `5` vypíšeme místo čísla "SPSE"
+- Příkladový výstup:
+  - `1 2 SP 4 SE SP 7 8 SP SE 11 SP 13 14 SPSE 16` (pro n = 16)
