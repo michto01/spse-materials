@@ -79,13 +79,13 @@ Najďete si proto následující obvody (stačí jejich čísla):
 
 ![Image](hotcold.jpeg)
 
-#### [1.0] 📘 Napište funci pro převod `Fahrenhait -> Celsius`
+#### [2.0] 📘 Napište funci pro převod `Fahrenhait -> Celsius`
 
-#### [1.1] 📘 Napište funci pro převod `Celsius -> Fahrenhait`
+#### [2.1] 📘 Napište funci pro převod `Celsius -> Fahrenhait`
 
-#### [1.2] 📘 Napište funkci pro převod `Celsius -> Kelvin`
+#### [2.2] 📘 Napište funkci pro převod `Celsius -> Kelvin`
 
-#### [1.3] 📙 Pomoci předchozích funkcí realizujte převod `Fahrenhait -> Kelvin`
+#### [2.3] 📙 Pomoci předchozích funkcí realizujte převod `Fahrenhait -> Kelvin`
 
 ### [level 3] -- ⏱️ Čas
 
