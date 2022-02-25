@@ -12,6 +12,7 @@ Tento repozitář slouží pro testování a jako veřejné zrcadlo pro vyukové
 * Operační systémy
   * Ročník 3
     * [NTFS](OPS3_ntfs.pdf)
+      * [Virtuální disk pro cvičení](https://sselekhavirov-my.sharepoint.com/:u:/g/personal/tomas_michalek_spsehavirov_cz/EZ78WrXtzNBKu1FGEkF4t_kBEktqnVumBe2Qg6jcDnTv4g?e=RrbJH0)
   * Ročník 4
 * Hardware
   * Ročník 3
