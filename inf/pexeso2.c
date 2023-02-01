@@ -213,7 +213,7 @@ void pexeso_hide(char board[], size_t m, size_t n, int x, int y) {
 void pexeso_get_coords(int *x, int *y) {
     char c_x;
     char c_y;
-    fprintf(stdout, "What shall I show you [A-%c 1-%d]: ", 'A' + (N - 1), (M-1));
+   	fprintf(stdout, "What shall I show you [A-%c 1-%d]: ", 'A' + (N - 1), (M)); // just M ( playing on grid A-C 1-4) ? before (M - 1) was showing A-C 1-3
     fscanf(stdin, " %c %c", &c_y, &c_x);
 
     assert(isdigit(c_x));
